@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: co-sugarsync\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-17 11:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: 莳子 <shine.wangrs@yahoo.com.cn>\n"
+"Language-Team: codante.org <shine.wangrs@yahoo.com.cn>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: H:\\workspace_mobile\\codante\\wp-content\\plugins\\co-sugarsync\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: co-sugarsync.php:24
+#: co-sugarsync.php:85
+#: tinymce/sugarsync.service.php:24
+msgid "SugarSync"
+msgstr "SugarSync"
+
+#: co-sugarsync.php:25
+msgid "Setting"
+msgstr "设置"
+
+#: co-sugarsync.php:26
+msgid "Flush"
+msgstr "数据刷新"
+
+#: co-sugarsync.php:62
+msgid "None"
+msgstr "无"
+
+#: co-sugarsync.php:62
+#: co-sugarsync.php:70
+msgid "Effects Library"
+msgstr "效果库"
+
+#: co-sugarsync.php:97
+msgid "Save succeed"
+msgstr "保存成功"
+
+#: co-sugarsync.php:115
+msgid "Original image links"
+msgstr "原图链接"
+
+#: co-sugarsync.php:118
+msgid "In the pictures, add a link to the original image"
+msgstr "在图片中，添加一个链接到原始图像。"
+
+#: co-sugarsync.php:122
+msgid "Images load"
+msgstr "图片载入"
+
+#: co-sugarsync.php:125
+msgid "Module"
+msgstr "模块"
+
+#: co-sugarsync.php:125
+msgid "Gradually add pictures on the page"
+msgstr "逐渐加载页面上的图片。"
+
+#: co-sugarsync.php:129
+#: co-sugarsync.php:347
+msgid "Album effects"
+msgstr "相册效果"
+
+#: co-sugarsync.php:135
+msgid "Customize the effect"
+msgstr "自定义效果"
+
+#: co-sugarsync.php:138
+msgid "Adding all the images in the top of the effect choices, you can customize the effect of the album."
+msgstr "在所有图片的顶部加入效果选择，您可以自定义相册的效果。"
+
+#: co-sugarsync.php:146
+msgid "Save"
+msgstr "保存"
+
+#: co-sugarsync.php:155
+msgid "About the plugin: "
+msgstr "关于本插件:"
+
+#: co-sugarsync.php:207
+#: co-sugarsync.php:220
+msgid "reflush"
+msgstr "刷新"
+
+#: co-sugarsync.php:232
+msgid "No Accounts."
+msgstr "您还未添加任何账户。"
+
+#: co-sugarsync.php:348
+msgid "Syetem default"
+msgstr "系统默认"
+
+#: co-sugarsync.php:413
+msgid "Gallery"
+msgstr "图库"
+
+#: co-sugarsync.php:517
+msgid "View original size"
+msgstr "浏览原始尺寸"
+
+#: co-sugarsync.php:533
+msgid "Add source link"
+msgstr "添加原图链接"
+
+#: tinymce/sugarsync.service.php:105
+msgid "Accounts"
+msgstr "账户"
+
+#: tinymce/sugarsync.service.php:106
+msgid "Albums & Pictures"
+msgstr "相册 & 图片"
+
+#: tinymce/sugarsync.service.php:112
+msgid "New account:"
+msgstr "添加新账户:"
+
+#: tinymce/sugarsync.service.php:113
+msgid "Add new"
+msgstr "添加"
+
+#: tinymce/sugarsync.service.php:120
+msgid "Account_name"
+msgstr "账户名称"
+
+#: tinymce/sugarsync.service.php:121
+msgid "Operational"
+msgstr "操作"
+
+#: tinymce/sugarsync.service.php:143
+msgid "Select All"
+msgstr "全选"
+
+#: tinymce/sugarsync.service.php:144
+msgid "Select None"
+msgstr "全不选"
+
+#: tinymce/sugarsync.service.php:145
+msgid "Negative Selection"
+msgstr "反选"
+
+#: tinymce/sugarsync.service.php:148
+msgid "Pictures Conf:"
+msgstr "图片配置"
+
+#: tinymce/sugarsync.service.php:149
+msgid "Width limit:"
+msgstr "宽度限制:"
+
+#: tinymce/sugarsync.service.php:152
+msgid "Height limit:"
+msgstr "高度限制:"
+
+#: tinymce/sugarsync.service.php:155
+msgid "Rotate:"
+msgstr "旋转:"
+
+#: tinymce/sugarsync.service.php:160
+msgid "Album Style:"
+msgstr "相册样式:"
+
+#: tinymce/sugarsync.service.php:162
+#: tinymce/sugarsync.service.php:210
+msgid "Normal"
+msgstr "正常"
+
+#: tinymce/sugarsync.service.php:164
+msgid "Column"
+msgstr "多列"
+
+#: tinymce/sugarsync.service.php:174
+msgid "Cancel"
+msgstr "取消"
+
+#: tinymce/sugarsync.service.php:178
+#: tinymce/sugarsync.service.php:202
+msgid "Insert"
+msgstr "插入"
+
+#: tinymce/sugarsync.service.php:201
+msgid "Please select at least one picture"
+msgstr "请选择至少一张图片"
+
+#: tinymce/sugarsync.service.php:203
+msgid "Enter"
+msgstr "进入"
+
+#: tinymce/sugarsync.service.php:204
+msgid "No album"
+msgstr "无相册"
+
+#: tinymce/sugarsync.service.php:205
+msgid "No picture"
+msgstr "无图片"
+
+#: tinymce/sugarsync.service.php:206
+msgid "Delete"
+msgstr "删除"
+
+#: tinymce/sugarsync.service.php:207
+msgid "First of all, choose to insert a picture or album!"
+msgstr "首先，请选择需要插入的图片或相册!"
+
+#: tinymce/sugarsync.service.php:208
+msgid "Rotate right 90 degrees"
+msgstr "右旋90度"
+
+#: tinymce/sugarsync.service.php:209
+msgid "Rotate left 90 degrees"
+msgstr "左旋90度"
+
+#: tinymce/sugarsync.service.php:211
+msgid "Reverse"
+msgstr "颠倒"
+
+#~ msgid "previous"
+#~ msgstr "上一张"
+#~ msgid "next"
+#~ msgstr "下一张"
+#~ msgid "full size"
+#~ msgstr "全尺寸"
+#~ msgid "open in new browser window"
+#~ msgstr "在新的窗口中打开"
+#~ msgid "download"
+#~ msgstr "下载"
+#~ msgid "close clearbox"
+#~ msgstr "关闭"
+#~ msgid "start slideshow"
+#~ msgstr "开始自动播放"
+#~ msgid "stop slideshow"
+#~ msgstr "停止自动播放"
+#~ msgid "rotate image right by 90 degrees"
+#~ msgstr "顺时针旋转90度"
+#~ msgid "rotate image left by 90 degrees"
+#~ msgstr "逆时针旋转90度"
+#~ msgid "Effect"
+#~ msgstr "效果"
+#~ msgid "Insert Conf:"
+#~ msgstr "插入配置"
+#~ msgid "When inserted"
+#~ msgstr "插入时"
+#~ msgid "(0 = No Limit)"
+#~ msgstr "(0 = 无限制)"
+#~ msgid "Select gallery"
+#~ msgstr "选择图库"
+#~ msgid "Select gallery first"
+#~ msgstr "请先选择图库"
+#~ msgid "User"
+#~ msgstr "用户"
+#~ msgid "Size"
+#~ msgstr "尺寸"
+#~ msgid "Center"
+#~ msgstr "中心"
+

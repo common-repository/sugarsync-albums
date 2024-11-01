@@ -1,0 +1,21 @@
+.SugarSync{margin-bottom:20px}
+.SugarSync:after{clear:both;content:".";display:block;height:0;visibility:hidden}
+* html .SugarSync{height:1%}
+.co-ss-pictures{margin:0 auto}
+.co-ss-picture-frame{margin:5px auto 10px}
+.co-ss-picture-frame table{margin:0 auto;background:#f8f8f8;border:3px double #ddd}
+.co-ss-picture-frame table tr td{padding:0;border:0 none;background:none;}
+.co-ss-picture-frame table tr td.co-ss-picture{padding:5px}
+.co-ss-picture-frame table tr td.co-ss-picture a{display:block;text-align:center}
+.co-ss-picture-frame table tr td.co-ss-bar{padding:0;border:0 none;background:none}
+.co-ss-picture-frame table tr td.co-ss-bar a{color:#eee}
+.co-ss-column{margin:3px;padding:8px 8px 0 0;float:left}
+.co-ss-column table{margin:0}
+.co-ss-customize-bar{}
+.co-ss-customize-bar table{}
+.co-ss-customize-bar table tr td{padding:2px 5px;background:none;border:0 none}
+.co-ss-customize-bar table tr td.current{background:#57AE00}
+.co-ss-customize-bar table tr td a{text-transform:uppercase;color:#57AE00}
+.co-ss-customize-bar table tr td a:hover{color:#c11}
+.co-ss-customize-bar table tr td.current a{font-weight:700;color:#fff}
+.co-ss-customize-bar table tr td.current a:hover{color:#c11}
